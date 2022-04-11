@@ -1,5 +1,4 @@
-import { createGlobalStyle } from "styled-components";
-
+import { createGlobalStyle } from 'styled-components';
 
 const GlobalStyle = createGlobalStyle`
 
@@ -15,6 +14,5 @@ html, body {
   font-family: "Ubuntu", sans-serif;
 }
 `;
-
 
 export default GlobalStyle;
