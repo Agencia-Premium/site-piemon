@@ -1,6 +1,7 @@
+import { HomeLayout } from '@/layout/home';
 import type { NextPage } from 'next/types';
 
 const Home: NextPage = () => {
-  return <h1>home</h1>;
+  return <HomeLayout />;
 };
 export default Home;

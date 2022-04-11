@@ -30,7 +30,10 @@
     "react/jsx-props-no-spreading": "off",
     "import/no-extraneous-dependencies": "off",
     "no-undef": "off",
+    "react/no-danger": "off",
+    "@typescript-eslint/no-empty-interface": "off",
     "jsx-a11y/iframe-has-title": "off",
+    "import/prefer-default-export": "off",
     "react/jsx-filename-extension": [
       1,
       {
