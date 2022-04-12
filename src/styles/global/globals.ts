@@ -25,6 +25,16 @@ h1,h2,h3,h4,h5,h6 {
   font: inherit;
   vertical-align: baseline;
 }
+
+::-webkit-scrollbar{
+    display: none;
+  }
+  ::-webkit-scroll-thumb{
+    display: none;
+  }
+  ::-webkit-scrollbar-track{
+    display: none;
+  }
 `;
 
 export default GlobalStyle;
